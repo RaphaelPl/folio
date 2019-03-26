@@ -14,8 +14,10 @@ The website is a relatively, barebones in terms of structure which holds true fo
 
 ## Sitemap
 Again relatively simple regarding the page at present. 
+
 Site landing ===> home page
-        if tablet or mobile ===> scroll elements to read descriptions of cards
+
+if tablet or mobile ===> scroll elements to read descriptions of cards
 
 ## screenshots
  screenhots here show intial planning via the moodboard as well as the design phase of the inital site as well as PM work via Trello
