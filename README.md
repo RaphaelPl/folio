@@ -23,10 +23,10 @@ if tablet or mobile ===> scroll elements to read descriptions of cards
  screenhots here show intial planning via the moodboard as well as the design phase of the inital site as well as PM work via Trello
 
  ### Trello
- ![trello](C:\Users\raph_\repos\folio\documents)
+ ![trello](https://github.com/raphaCA/folio/blob/master/documents/trello.jpg = 400x800) 
 
 ### Moodboard 
-![Moodboard](C:\Users\raph_\repos\folio\documents)
+![Moodboard](https://github.com/raphaCA/folio/blob/master/documents/moodboard.png)
 
 ### inital design phase
 ![pre-disaster-site](C:\Users\raph_\repos\folio\documents)
