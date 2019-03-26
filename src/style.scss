@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre|Montserrat');
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+article p span {
+    color: #B7D7D8;
+}
+
+p,
+a {
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: #204E5F;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+/* Generic styles */
+
+html {
+    scroll-behavior: smooth;
+    background-color: #B7D7D8;
+}
+
+img {
+    object-fit: scale-down;
+    float: left;
+    overflow: hidden;
+}
+
+
+/* Styles for the hero image */
+
+.hero {
+    background: url('../img/main.jpg') center;
+    background-size: cover;
+    padding: 2rem 2rem;
+    /* grid styles */
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-gap: 2rem;
+    justify-content: center;
+    align-content: center;
+}
+
+.hero>* {
+    color: #B7D7D8;
+}
+
+.hero>h1 {
+    font-size: 4rem;
+    padding-bottom: 1rem;
+}
+
+.hero>article>p {
+    font-size: 1.5rem;
+    font-weight: 200;
+}
+
+.hero>article>a {
+    padding: 1rem;
+    margin-top: .75rem;
+}
+
+
+/* breweries styles */
+
+.info {
+    padding: 2rem;
+    opacity: .9;
+}
+
+.info>ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 1rem;
+    grid-auto-flow: dense;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.info>ul>li {
+    border: 1px solid #E2E2E2;
+    border-radius: .5rem;
+}
+
+.info>ul>li>figure {
+    max-height: 220px;
+    overflow: hidden;
+    border-top-left-radius: .5rem;
+    border-top-right-radius: .5rem;
+    position: relative;
+}
+
+.info>ul>li>figure>img {
+    display: block;
+    float: left;
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+
+.info>ul>li>figure>figcaption {
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, .7);
+    width: 100%;
+    opacity: .6;
+}
+
+.info>ul>li>figure>figcaption>h3 {
+    color: #FFC6A8;
+    padding: .75rem;
+    font-size: 1.25rem;
+}
+
+.info>ul>li>p {
+    font-size: 1rem;
+    line-height: 1.5;
+    padding: 1rem .75rem;
+    color: #666666;
+}
+
+.info>ul>li>a {
+    padding: .5rem 1rem;
+    margin: .5rem;
+}
+
+
+/* footer */
+
+footer {
+    background-color: #204E5F;
+    padding: .75rem;
+    color: white;
+    text-align: center;
+    font-size: .75rem;
+    min-width: 375px;
+}
