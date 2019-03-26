@@ -29,7 +29,7 @@ if tablet or mobile ===> scroll elements to read descriptions of cards
 ![Moodboard](https://github.com/raphaCA/folio/blob/master/documents/moodboard.png)
 
 ### inital design phase
-![pre-disaster-site](C:\Users\raph_\repos\folio\documents)
+![pre-disaster-site](https://github.com/raphaCA/folio/blob/master/documents/initial%20site%20plan.jpg)
 
 ## 
 
