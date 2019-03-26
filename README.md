@@ -79,9 +79,9 @@ The internet came to us from necessity for data safety and continuity of communi
 With the internet being as immense as it is there needs to be some ways for machines across the world to be able to request websites, process transactions, securely communicate etc. We have a listing provided to us in the form of a DNS, domain name system. When a machine makes a request or sends for data of some kind your computer is identified by an IP address. This then uses a DNS to look the domain your machine is attempting to access, packets of data are then either sent or recieved during this process. The browser is the interface we use to perform these actions for the most part, they look up display and can search for other addresses connected to the internet. 
 
 ## Development of internet technologies and how it has contributed to the world today
+Social Media was initially created to allow a greater sense of connectity among groups of people. In some ways in promoted the idea of connection through common bonds. It also developed into a way for people to present themselves to the world, share their favorite music, films, books etc and generate conversation and connection. However somewhere aling the way it truly became something else entirely. It entered the realm of big business as we found there was a captive audience just waiting for the next notification. The gradual rise of social media from something we check to keep in touch with people to a habit. A habit in many cases fueled by a addictive technologies and maintained by dopamine addictions. We now have companies actively engaged in a race to the bottom of our attention spans and one where the effects won't be know for decades to come. With the widespread use of social media among all demographics in developed countries it still unclear what outcomes this subtle loss of automny will lead too however intial research is showing the potential for long lasting damage far outweighs the gains at this present juncture. 
 
 
-
-
+## Finito
 
 
