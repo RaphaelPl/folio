@@ -50,8 +50,16 @@ I also planned this to be an site using accessibilty best practices where possib
 ### Wireframes
 The wire frame process was most natural for me in an on paper form. I can easily write up and sketch rought concepts as well as make notes are about the code likely to be requied in these instances. Seen below are some iterations of the wireframes that I worked through during the design phase. 
 
+### wireframe A
+![wireframe](https://github.com/raphaCA/folio/blob/master/documents/wireframe%201.JPG) 
 
-## Planning process
+### wireframe B
+![wireframe](https://github.com/raphaCA/folio/blob/master/documents/wireframe2.JPG)
+
+### wireframe C
+![wireframe](https://github.com/raphaCA/folio/blob/master/documents/wireframe3.JPG)
+
+### Planning process
 Planning and timeline structure was done using trello and a mix of notepad entries to outline and further flesh out tasks and code structure to fit with the ideas of the site. I used due dates for the cards to ensure fluid and forward movements of the project.This allowed a solid strucutre of initial elements to be planned and completed before moving onto more complex items required in the project. 
 
 ### trello
@@ -65,8 +73,10 @@ Planning and timeline structure was done using trello and a mix of notepad entri
 
 
 ## Key events of the Interwebs 1980's to now 
+The internet came to us from necessity for data safety and continuity of communication during times of war and for use in the university sector. From there during the 70's came the development of the protcols used for packet and communication transmission through these networked links. The idea being machines on differering networks needed a standard set of protocols to use allowing further linkage. As we come to the late 80's the internet begins to broaden in scope and in essence go global, the first ISP's begin to form and soon the internet will become available in our very homes and offices. We then come to an amazing time when internet is being used in a global scope to enable primitive email systems, myspace, p2p sharing, Web 2.0, responsive design, memes, viral video sharing, eventually giving way to the web we know now with an almost imperceptible reach into our lives enabling connectivity we would never have dreamed possible. All made possible by some undersea cables and creative thinking. 
 
 ## Relationship between domains, web servers, DNS, and web browsers
+With the internet being as immense as it is there needs to be some ways for machines across the world to be able to request websites, process transactions, securely communicate etc. We have a listing provided to us in the form of a DNS, domain name system. When a machine makes a request or sends for data of some kind your computer is identified by an IP address. This then uses a DNS to look the domain your machine is attempting to access, packets of data are then either sent or recieved during this process. The browser is the interface we use to perform these actions for the most part, they look up display and can search for other addresses connected to the internet. 
 
 ## Development of internet technologies and how it has contributed to the world today
 
